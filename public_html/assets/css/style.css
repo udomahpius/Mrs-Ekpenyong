@@ -11456,7 +11456,7 @@ textarea.form-control {
   position: relative;
   height: 100vh;
   min-height: 500px;
-  background: url(/public_html/assets/imgs/EYAKNDUE-3-removebg-preview.png) no-repeat center center fixed;
+  background: url(..//imgs/EYAKNDUE-3-removebg-preview.png) no-repeat center center fixed;
   background-size: cover;
   overflow: hidden;
   background-color:var(--info-1);
@@ -11660,7 +11660,7 @@ textarea.form-control {
 
 .section.has-img-bg {
   position: relative;
-  background: url(/public_html/assets/imgs/EYAKNDUE-1-removebg-preview.png) no-repeat center top fixed;
+  background: url(..//imgs/EYAKNDUE-1-removebg-preview.png) no-repeat center top fixed;
   background-size: contain;
   color: #fff;
   background-color:var(--info-1);
